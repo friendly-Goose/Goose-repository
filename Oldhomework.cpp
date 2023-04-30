@@ -4,6 +4,8 @@ using namespace std;
 
 class Butterfly//создаем класс бабочка
 {
+
+
     int days;
     string stage;
 public:
